@@ -1,2 +1,4 @@
-# mysql
-Its name is a combination of "My", the name of co-founder Michael Widenius's daughter and "SQL", the abbreviation for Structured Query Language
+## CLICK AND GO TO WIKI
+https://github.com/theworlddecoded/mysql/wiki
+
+____
